@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = audrey.jegou@gmail.com
+	name = Audrey JEGOU
